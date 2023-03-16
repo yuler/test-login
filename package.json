@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-spring/three": "^9.7.1",
     "@react-three/drei": "^9.57.3",
+    "@react-three/gltfjsx": "^4.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-github-login": "^1.0.3",
@@ -21,6 +23,7 @@
   "devDependencies": {
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
+    "@types/three": "^0.149.0",
     "@vitejs/plugin-react": "^3.1.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
